@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.API", "Payment.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yarp", "yarp\yarp.csproj", "{D076CD2F-63C6-4C61-B053-6A3A8830D552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.API", "Client.API\Client.API.csproj", "{737B7804-B6F9-45B5-8C58-94FE5F8804FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.API", "Account.API\Account.API.csproj", "{9CE20517-5F08-4DC5-B8C7-9DB91E42C375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D076CD2F-63C6-4C61-B053-6A3A8830D552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D076CD2F-63C6-4C61-B053-6A3A8830D552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D076CD2F-63C6-4C61-B053-6A3A8830D552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737B7804-B6F9-45B5-8C58-94FE5F8804FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737B7804-B6F9-45B5-8C58-94FE5F8804FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737B7804-B6F9-45B5-8C58-94FE5F8804FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737B7804-B6F9-45B5-8C58-94FE5F8804FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE20517-5F08-4DC5-B8C7-9DB91E42C375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE20517-5F08-4DC5-B8C7-9DB91E42C375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE20517-5F08-4DC5-B8C7-9DB91E42C375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE20517-5F08-4DC5-B8C7-9DB91E42C375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
